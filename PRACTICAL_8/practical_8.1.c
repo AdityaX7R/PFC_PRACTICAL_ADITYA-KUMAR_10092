@@ -1,5 +1,6 @@
 #include<stdio.h>
 int sumOfDigit(int n){
+    // Aditya Kumar 10092
     int output=0;
     while(n!=0){
         int ld=n%10;
