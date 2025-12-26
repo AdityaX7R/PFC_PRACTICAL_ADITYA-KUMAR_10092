@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 void swap(int *a, int *b) {
+    
     int temp;
     temp = *a;
     *a = *b;
@@ -8,6 +9,7 @@ void swap(int *a, int *b) {
 }
 
 int main() {
+    // Aditya Kumar 10092
     int x, y;
 
     printf("Enter two numbers: ");
@@ -20,3 +22,12 @@ int main() {
 
     return 0;
 }
+
+
+
+
+// output
+// Enter two numbers: 4
+// 6
+// After swapping:
+// x = 6, y = 4
