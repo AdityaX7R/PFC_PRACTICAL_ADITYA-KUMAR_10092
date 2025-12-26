@@ -14,3 +14,10 @@ int main(){
     int ans=sumOfDigit(n);
     printf("%d",ans);
 }
+
+
+
+// 456
+// 15
+
+
